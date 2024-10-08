@@ -1,0 +1,14 @@
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\bin\Debug\net8.0\CarrinhoMercado.exe
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\bin\Debug\net8.0\CarrinhoMercado.deps.json
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\bin\Debug\net8.0\CarrinhoMercado.runtimeconfig.json
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\bin\Debug\net8.0\CarrinhoMercado.dll
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\bin\Debug\net8.0\CarrinhoMercado.pdb
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.AssemblyInfoInputs.cache
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.AssemblyInfo.cs
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.dll
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\refint\CarrinhoMercado.dll
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.pdb
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\CarrinhoMercado.genruntimeconfig.cache
+C:\Users\aluno-cesul\source\repos\CarrinhoMercado\CarrinhoMercado\obj\Debug\net8.0\ref\CarrinhoMercado.dll
